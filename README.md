@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Sliding Window
 |  |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Design
@@ -456,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 ## Graph Theory
 |  |
 | ------- |
