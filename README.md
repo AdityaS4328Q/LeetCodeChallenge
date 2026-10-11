@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1584-min-cost-to-connect-all-points) |
 | [2239-find-closest-number-to-zero](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/2239-find-closest-number-to-zero) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -508,4 +509,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
