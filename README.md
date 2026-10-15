@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1584-min-cost-to-connect-all-points) |
+| [1929-concatenation-of-array](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/2239-find-closest-number-to-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 ## Interactive
 |  |
 | ------- |
