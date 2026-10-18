@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [0705-design-hashset](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0705-design-hashset](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0705-design-hashset) |
 ## Queue
 |  |
 | ------- |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -398,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0705-design-hashset) |
 ## Binary Search Tree
 |  |
 | ------- |
