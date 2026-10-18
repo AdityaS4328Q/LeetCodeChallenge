@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1584-min-cost-to-connect-all-points) |
 | [1929-concatenation-of-array](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/2239-find-closest-number-to-zero) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sliding Window
 |  |
 | ------- |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -384,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## String Matching
 |  |
 | ------- |
@@ -399,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Trie
 |  |
 | ------- |
@@ -417,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Simulation
@@ -517,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Enumeration
 |  |
 | ------- |
@@ -529,4 +538,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
