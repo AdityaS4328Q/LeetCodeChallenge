@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [1254-number-of-closed-islands](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1584-min-cost-to-connect-all-points) |
 | [1929-concatenation-of-array](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 ## Linked List
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
+| [1254-number-of-closed-islands](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1971-find-if-path-exists-in-graph) |
