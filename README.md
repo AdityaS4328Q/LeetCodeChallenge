@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1584-min-cost-to-connect-all-points) |
 | [1929-concatenation-of-array](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
